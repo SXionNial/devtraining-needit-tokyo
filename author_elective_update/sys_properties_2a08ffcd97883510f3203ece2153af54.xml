@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>Minimum number of days required between when a NeedIt request is created and the When needed date</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.advanceNoticeDays</name>
+        <read_roles>x_58872_needit.admin</read_roles>
+        <suffix>advanceNoticeDays</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 04:55:13</sys_created_on>
+        <sys_id>2a08ffcd97883510f3203ece2153af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.advanceNoticeDays</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_2a08ffcd97883510f3203ece2153af54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 04:55:13</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles>x_58872_needit.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=2a08ffcd97883510f3203ece2153af54"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>09dfe9351b4d055032182f8dee4bcb49</instance_id>
+        <instance_name>dev121772</instance_name>
+        <name>sys_properties_2a08ffcd97883510f3203ece2153af54</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Minimum number of days required between when a NeedIt request is created and the When needed date</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_58872_needit.advanceNoticeDays</name><read_roles>x_58872_needit.admin</read_roles><suffix>advanceNoticeDays</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-14 04:55:13</sys_created_on><sys_id>2a08ffcd97883510f3203ece2153af54</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.advanceNoticeDays</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_2a08ffcd97883510f3203ece2153af54</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-14 04:55:13</sys_updated_on><type>string</type><value/><write_roles>x_58872_needit.admin</write_roles></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=2a08ffcd97883510f3203ece2153af54"/></record_update>]]></payload>
+        <payload_hash>-2123257081</payload_hash>
+        <record_name>x_58872_needit.advanceNoticeDays</record_name>
+        <reverted_from/>
+        <source>a623df309788f110f3203ece2153af65</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 04:55:14</sys_created_on>
+        <sys_id>1a48730197c83510f3203ece2153af53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18952c0cc0d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 04:55:14</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>524873019ac83510ca87aa3763ba6253</update_guid>
+        <update_guid_history>524873019ac83510ca87aa3763ba6253:-2123257081</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 04:55:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>410a916895204e2c96032be34a6e0390</sys_id>
+        <sys_metadata>2a08ffcd97883510f3203ece2153af54</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.advanceNoticeDays</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_2a08ffcd97883510f3203ece2153af54</sys_update_name>
+        <sys_update_version display_value="sys_properties_2a08ffcd97883510f3203ece2153af54">1a48730197c83510f3203ece2153af53</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 04:55:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
