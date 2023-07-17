@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0c084011970c3510f3203ece2153af2a" extends="sys_import_set_row" label="Needit Data Records Import" max_length="40" name="x_58872_needit_needit_data_records_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ï»¿Requested for" label="ï»¿Requested for" max_length="40" name="u_ï__requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Requested for email" label="Requested for email" max_length="40" name="u_requested_for_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Request type" label="Request type" max_length="40" name="u_request_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=What needed" label="What needed" max_length="40" name="u_what_needed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=When needed" label="When needed" max_length="40" name="u_when_needed" type="string"/>
+    </element>
+</database>
